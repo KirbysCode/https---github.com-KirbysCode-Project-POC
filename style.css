@@ -1,9 +1,38 @@
-h2 {
-    background: grey;
-}
 body {
     font-family: Helvetica, sans-serif, Arial;
-}
+    margin: 0;
+    padding: 0;
+}    
 h1 {
-    color: red;
+    color: #737373;
+}
+h2 {
+    color: #262626;
+}
+
+
+
+
+
+header {
+    background-color: black;
+    padding: 20px;
+}
+nav ul li {
+    color: #efeaea;
+    display: inline-block;
+    text-align: center;
+    margin: 8px;
+}
+
+
+
+
+section {
+    background-color: #efeaea;
+    padding: 20px
+}
+footer {
+    background-color: #b7b7b7 ;
+    padding: 10px;
 }
